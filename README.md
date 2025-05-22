@@ -2,7 +2,7 @@
 
 **Important Links**
 
-1. GitHub Repository: https://github.com/rajayush01/beyondchat
+1. GitHub Repository: [https://github.com/rajayush01/beyondchat](https://github.com/rajayush01/beyondchat)
 
 2. Live Deployment: [(https://beyond-chat-final.netlify.app/)](https://beyond-chat-final.netlify.app/)
 
@@ -10,7 +10,7 @@
 **Clone the repository**
 
 
-  git clone https://github.com/your-username/beyondchat.git
+  git clone [https://github.com/rajayush01/beyondchat](https://github.com/rajayush01/beyondchat)
 
   cd beyondchat
 
