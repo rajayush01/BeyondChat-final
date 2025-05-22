@@ -1,14 +1,13 @@
 # BeyondChat
 
-# Submission Details
+# Important Links
 
 1. GitHub Repository: https://github.com/rajayush01/beyondchat
 
 2. Live Deployment: [(https://beyond-chat-final.netlify.app/)](https://beyond-chat-final.netlify.app/)
 
 # Getting Started
-
-To run the project locally:
+# To run the project locally:
 
 # Clone the repository
 
