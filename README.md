@@ -6,8 +6,9 @@
 
 2. Live Deployment: [(https://beyond-chat-final.netlify.app/)](https://beyond-chat-final.netlify.app/)
 
-**To run the project locally:**
+# To run the project locally:
 **Clone the repository**
+
 
   git clone https://github.com/your-username/beyondchat.git
 
