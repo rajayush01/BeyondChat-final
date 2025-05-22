@@ -9,18 +9,18 @@
 **To run the project locally:**
 **Clone the repository**
 
-git clone https://github.com/your-username/beyondchat.git
+  git clone https://github.com/your-username/beyondchat.git
 
-cd beyondchat
+  cd beyondchat
 
 **Install dependencies**
 
-npm install
+  npm install
 
 **Run the development server**
 
-npm run dev
+  npm run dev
 
 **Build for production**
 
-npm run build
+  npm run build
