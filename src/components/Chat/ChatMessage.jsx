@@ -42,8 +42,8 @@ const ChatMessage = ({ message, isUser, isNew = false }) => {
           ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-4 opacity-0'}
           ${isNew ? 'animate-message-pop' : ''}
           ${isUser 
-            ? 'bg-gradient-to-r from-blue-500 to-blue-600 text-white ml-auto hover:shadow-md' 
-            : 'bg-white text-gray-800 border border-gray-100 hover:shadow-md hover:border-gray-200'
+            ? 'bg-blue-100 text-gray-800 ml-auto hover:shadow-md font-medium' 
+            : 'bg-gray-200 text-gray-800 border border-gray-200 hover:shadow-md font-medium hover:border-gray-200'
           }
           hover:scale-102 group-hover:shadow-lg
         `}
